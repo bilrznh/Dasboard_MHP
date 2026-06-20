@@ -54,9 +54,9 @@ Browser akan otomatis terbuka di `http://localhost:8501`
 
 Download dataset dari Kaggle:
 **Amazon Fine Food Reviews**
-→ https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+→ https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews
 
-File yang dibutuhkan: `Reviews.csv`
+File yang dibutuhkan: `Reviews_Cleaned_Streamlit`
 
 Upload file tersebut langsung melalui tombol upload di dashboard.
 
